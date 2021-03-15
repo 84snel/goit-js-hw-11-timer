@@ -1,0 +1,23 @@
+.timer{
+  display: flex;
+  flex-direction: column;
+}
+
+.field{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  margin: 0 auto;
+  width: 120px;
+  height: 35px;
+  font-size: 18px;
+  color: #fff;
+}
+.label
+{padding-left: 10px;}
+
+.field.black{
+  background-color: #fff;
+    color: #000;
+}
